@@ -1,2 +1,2 @@
-# Coursework
-Coursework for the 3rd semester on Fundamentals of Programming
+# Курсовая работа "Лобби для онлайн-игры"
+Coursework for 3rd semester programming fundamentals on the topic: "Lobby for online game"
